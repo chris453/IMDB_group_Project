@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListOfAccounts>
+  <account>
+    <username>HCI1</username>
+    <password>password</password>
+  </account>
+  <account>
+    <username>HCI2</username>
+    <password>password</password>
+  </account>
+  <account>
+    <username>egd</username>
+    <password></password>
+  </account>
+  <account>
+    <username>meow</username>
+    <password>meow1234</password>
+  </account>
+  <account>
+    <username>byakimchuk</username>
+    <password>password123</password>
+  </account>
+  <account>
+    <username>chris</username>
+    <password>thorn453</password>
+  </account>
+  <account>
+    <username>sss</username>
+    <password>aaaaaaaa</password>
+  </account>
+</ListOfAccounts>

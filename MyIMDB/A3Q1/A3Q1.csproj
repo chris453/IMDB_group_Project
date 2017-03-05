@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{758A3D46-90ED-45AE-9E41-CBCF999C1951}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>A3Q1</RootNamespace>
+    <AssemblyName>A3Q1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addtoListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addtoListForm.Designer.cs">
+      <DependentUpon>addtoListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvanceSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvanceSearch.designer.cs">
+      <DependentUpon>AdvanceSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditMovie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditMovie.designer.cs">
+      <DependentUpon>EditMovie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fbForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fbForm.Designer.cs">
+      <DependentUpon>fbForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="helpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="helpForm.Designer.cs">
+      <DependentUpon>helpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="igForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="igForm.Designer.cs">
+      <DependentUpon>igForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="listMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listMessageBox.Designer.cs">
+      <DependentUpon>listMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListPage.Designer.cs">
+      <DependentUpon>ListPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginPage.Designer.cs">
+      <DependentUpon>loginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mailForm.Designer.cs">
+      <DependentUpon>mailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New.designer.cs">
+      <DependentUpon>New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newAccountForm.Designer.cs">
+      <DependentUpon>newAccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ScatterPlot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScatterPlot.designer.cs">
+      <DependentUpon>ScatterPlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="search.designer.cs">
+      <DependentUpon>search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchResults.designer.cs">
+      <DependentUpon>searchResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="socialMedia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="socialMedia.Designer.cs">
+      <DependentUpon>socialMedia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="twtrForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="twtrForm.Designer.cs">
+      <DependentUpon>twtrForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addtoListForm.resx">
+      <DependentUpon>addtoListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvanceSearch.resx">
+      <DependentUpon>AdvanceSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditMovie.resx">
+      <DependentUpon>EditMovie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fbForm.resx">
+      <DependentUpon>fbForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="helpForm.resx">
+      <DependentUpon>helpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="igForm.resx">
+      <DependentUpon>igForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listMessageBox.resx">
+      <DependentUpon>listMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListPage.resx">
+      <DependentUpon>ListPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginPage.resx">
+      <DependentUpon>loginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mailForm.resx">
+      <DependentUpon>mailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New.resx">
+      <DependentUpon>New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newAccountForm.resx">
+      <DependentUpon>newAccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScatterPlot.resx">
+      <DependentUpon>ScatterPlot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="search.resx">
+      <DependentUpon>search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchResults.resx">
+      <DependentUpon>searchResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="socialMedia.resx">
+      <DependentUpon>socialMedia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="twtrForm.resx">
+      <DependentUpon>twtrForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\movielist.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fb_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ig_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twtr_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resources\magnifying-glass.jpg" />
+    <None Include="bin\Debug\Resources\magGlass.png" />
+    <None Include="bin\Debug\Resources\magGlassPlus.png" />
+    <None Include="bin\Debug\Resources\add_list.png" />
+    <None Include="bin\Debug\Resources\scatterplotIcon.png" />
+    <Content Include="bin\Debug\Resources\accountList.xml" />
+    <Content Include="bin\Debug\Resources\fbComments.xml" />
+    <Content Include="ListOfMovies.xml" />
+    <Content Include="Resources\1395826613845.png" />
+    <Content Include="Resources\accountList.xml" />
+    <Content Include="Resources\add_list.png" />
+    <Content Include="Resources\AngryBirds.mp4" />
+    <Content Include="Resources\edit.png" />
+    <Content Include="Resources\fbComments.xml" />
+    <Content Include="Resources\goldStar.png" />
+    <Content Include="Resources\ListOfMovies.xml" />
+    <Content Include="Resources\login-signup-button.gif" />
+    <Content Include="Resources\magnifying-glass.jpg" />
+    <Content Include="Resources\panda.bmp" />
+    <Content Include="Resources\scatterplotIcon.png" />
+    <None Include="Resources\scatterplotIcon1.png" />
+    <Content Include="Resources\TheGoodDinosaur.mp4" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,265 @@
+c:\users\owner\documents\visual studio 2015\Projects\A3Q1\A3Q1\bin\Debug\A3Q1.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\A3Q1\A3Q1\bin\Debug\A3Q1.exe
+c:\users\owner\documents\visual studio 2015\Projects\A3Q1\A3Q1\bin\Debug\A3Q1.pdb
+c:\users\owner\documents\visual studio 2015\Projects\A3Q1\A3Q1\obj\Debug\A3Q1.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\A3Q1\A3Q1\obj\Debug\A3Q1.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\A3Q1\A3Q1\obj\Debug\A3Q1.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\A3Q1\A3Q1\obj\Debug\A3Q1.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\A3Q1\A3Q1\obj\Debug\A3Q1.exe
+c:\users\owner\documents\visual studio 2015\Projects\A3Q1\A3Q1\obj\Debug\A3Q1.pdb
+c:\users\owner\documents\visual studio 2015\Projects\A3Q1\A3Q1\obj\Debug\A3Q1.searchResults.resources
+C:\Users\Barry\Desktop\A3Q1\A3Q1\bin\Debug\A3Q1.exe.config
+C:\Users\Barry\Desktop\A3Q1\A3Q1\obj\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\A3Q1\A3Q1\obj\Debug\A3Q1.pdb
+C:\Users\Barry\Desktop\A3Q1\A3Q1\bin\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\A3Q1\A3Q1\bin\Debug\A3Q1.pdb
+C:\Users\Barry\Desktop\A3Q1\A3Q1\obj\Debug\A3Q1.csprojResolveAssemblyReference.cache
+C:\Users\Barry\Desktop\A3Q1\A3Q1\obj\Debug\A3Q1.Form1.resources
+C:\Users\Barry\Desktop\A3Q1\A3Q1\obj\Debug\A3Q1.ListPage.resources
+C:\Users\Barry\Desktop\A3Q1\A3Q1\obj\Debug\A3Q1.Properties.Resources.resources
+C:\Users\Barry\Desktop\A3Q1\A3Q1\obj\Debug\A3Q1.searchResults.resources
+C:\Users\Barry\Desktop\A3Q1\A3Q1\obj\Debug\A3Q1.csproj.GenerateResource.Cache
+C:\Users\Barry\Desktop\A3Q1\A3Q1\obj\Debug\A3Q1.ScatterPlot.resources
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\bin\Debug\A3Q1.exe.config
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\bin\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\bin\Debug\A3Q1.pdb
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\obj\Debug\A3Q1.AdvanceSearch.resources
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\obj\Debug\A3Q1.Form1.resources
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\obj\Debug\A3Q1.ListPage.resources
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\obj\Debug\A3Q1.Properties.Resources.resources
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\obj\Debug\A3Q1.ScatterPlot.resources
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\obj\Debug\A3Q1.search.resources
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\obj\Debug\A3Q1.searchResults.resources
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\obj\Debug\A3Q1.csproj.GenerateResource.Cache
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\obj\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\A3Q1 V.2\Barry A3Q1\A3Q1\obj\Debug\A3Q1.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\bin\Debug\A3Q1.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\bin\Debug\A3Q1.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\bin\Debug\A3Q1.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.AdvanceSearch.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.ListPage.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.ScatterPlot.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.search.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.searchResults.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.EditMovie.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.csproj.ResolveComReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.New.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\combined A3Q1\A3Q1\obj\Debug\A3Q1.listMessageBox.resources
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\bin\Debug\A3Q1.exe.config
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.csproj.ResolveComReference.cache
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.pdb
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\bin\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\bin\Debug\A3Q1.pdb
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.csprojResolveAssemblyReference.cache
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.AdvanceSearch.resources
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.EditMovie.resources
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.Form1.resources
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.listMessageBox.resources
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.ListPage.resources
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.New.resources
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.Properties.Resources.resources
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.ScatterPlot.resources
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.search.resources
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.searchResults.resources
+C:\Users\Barry\Desktop\A3Q1 V3\A3Q1\obj\Debug\A3Q1.csproj.GenerateResource.Cache
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\bin\Debug\A3Q1.exe.config
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.csproj.ResolveComReference.cache
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.pdb
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\bin\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\bin\Debug\A3Q1.pdb
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.csprojResolveAssemblyReference.cache
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.AdvanceSearch.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.EditMovie.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.Form1.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.listMessageBox.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.ListPage.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.New.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.Properties.Resources.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.ScatterPlot.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.search.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.searchResults.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.csproj.GenerateResource.Cache
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.socialMedia.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.fbForm.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.igForm.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.mailForm.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.twtrForm.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.helpForm.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.loginPage.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.newAccountForm.resources
+C:\Users\Barry\Desktop\drag drop safety\A3Q1\obj\Debug\A3Q1.addtoListForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\bin\Debug\A3Q1.exe.config
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.csproj.ResolveComReference.cache
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.pdb
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\bin\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\bin\Debug\A3Q1.pdb
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.csprojResolveAssemblyReference.cache
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.addtoListForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.AdvanceSearch.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.EditMovie.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.fbForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.Form1.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.helpForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.igForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.listMessageBox.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.ListPage.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.loginPage.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.mailForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.New.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.newAccountForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.Properties.Resources.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.ScatterPlot.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.search.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.searchResults.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.socialMedia.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.twtrForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.csproj.GenerateResource.Cache
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\bin\Debug\A3Q1.exe.config
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.csproj.ResolveComReference.cache
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.pdb
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\bin\Debug\A3Q1.exe
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\bin\Debug\A3Q1.pdb
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.csprojResolveAssemblyReference.cache
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.addtoListForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.AdvanceSearch.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.EditMovie.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.fbForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.Form1.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.helpForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.igForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.listMessageBox.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.ListPage.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.loginPage.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.mailForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.New.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.newAccountForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.Properties.Resources.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.ScatterPlot.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.search.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.searchResults.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.socialMedia.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.twtrForm.resources
+C:\Users\Barry\Desktop\A3Q1 FINAL FINAL\A3Q1 FINAL\A3Q1\obj\Debug\A3Q1.csproj.GenerateResource.Cache
+F:\A3Q1\bin\Debug\A3Q1.exe.config
+F:\A3Q1\obj\Debug\Interop.WMPLib.dll
+F:\A3Q1\obj\Debug\AxInterop.WMPLib.dll
+F:\A3Q1\obj\Debug\A3Q1.csproj.ResolveComReference.cache
+F:\A3Q1\obj\Debug\A3Q1.exe
+F:\A3Q1\obj\Debug\A3Q1.pdb
+F:\A3Q1\bin\Debug\A3Q1.exe
+F:\A3Q1\bin\Debug\A3Q1.pdb
+F:\A3Q1\bin\Debug\Interop.WMPLib.dll
+F:\A3Q1\bin\Debug\AxInterop.WMPLib.dll
+F:\A3Q1\obj\Debug\A3Q1.csprojResolveAssemblyReference.cache
+F:\A3Q1\obj\Debug\A3Q1.addtoListForm.resources
+F:\A3Q1\obj\Debug\A3Q1.AdvanceSearch.resources
+F:\A3Q1\obj\Debug\A3Q1.EditMovie.resources
+F:\A3Q1\obj\Debug\A3Q1.fbForm.resources
+F:\A3Q1\obj\Debug\A3Q1.Form1.resources
+F:\A3Q1\obj\Debug\A3Q1.helpForm.resources
+F:\A3Q1\obj\Debug\A3Q1.igForm.resources
+F:\A3Q1\obj\Debug\A3Q1.listMessageBox.resources
+F:\A3Q1\obj\Debug\A3Q1.ListPage.resources
+F:\A3Q1\obj\Debug\A3Q1.loginPage.resources
+F:\A3Q1\obj\Debug\A3Q1.mailForm.resources
+F:\A3Q1\obj\Debug\A3Q1.New.resources
+F:\A3Q1\obj\Debug\A3Q1.newAccountForm.resources
+F:\A3Q1\obj\Debug\A3Q1.Properties.Resources.resources
+F:\A3Q1\obj\Debug\A3Q1.ScatterPlot.resources
+F:\A3Q1\obj\Debug\A3Q1.search.resources
+F:\A3Q1\obj\Debug\A3Q1.searchResults.resources
+F:\A3Q1\obj\Debug\A3Q1.socialMedia.resources
+F:\A3Q1\obj\Debug\A3Q1.twtrForm.resources
+F:\A3Q1\obj\Debug\A3Q1.csproj.GenerateResource.Cache
+F:\comp3020_group39_a3\A3Q1\bin\Debug\A3Q1.exe.config
+F:\comp3020_group39_a3\A3Q1\obj\Debug\Interop.WMPLib.dll
+F:\comp3020_group39_a3\A3Q1\obj\Debug\AxInterop.WMPLib.dll
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.csproj.ResolveComReference.cache
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.exe
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.pdb
+F:\comp3020_group39_a3\A3Q1\bin\Debug\A3Q1.exe
+F:\comp3020_group39_a3\A3Q1\bin\Debug\A3Q1.pdb
+F:\comp3020_group39_a3\A3Q1\bin\Debug\Interop.WMPLib.dll
+F:\comp3020_group39_a3\A3Q1\bin\Debug\AxInterop.WMPLib.dll
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.csprojResolveAssemblyReference.cache
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.addtoListForm.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.AdvanceSearch.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.EditMovie.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.fbForm.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.Form1.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.helpForm.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.igForm.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.listMessageBox.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.ListPage.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.loginPage.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.mailForm.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.New.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.newAccountForm.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.Properties.Resources.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.ScatterPlot.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.search.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.searchResults.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.socialMedia.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.twtrForm.resources
+F:\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\bin\Debug\A3Q1.exe.config
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.csproj.ResolveComReference.cache
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.exe
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.pdb
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\bin\Debug\A3Q1.exe
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\bin\Debug\A3Q1.pdb
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.addtoListForm.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.AdvanceSearch.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.EditMovie.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.fbForm.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.Form1.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.helpForm.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.igForm.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.listMessageBox.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.ListPage.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.loginPage.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.mailForm.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.New.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.newAccountForm.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.Properties.Resources.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.ScatterPlot.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.search.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.searchResults.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.socialMedia.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.twtrForm.resources
+C:\Users\Owner\Desktop\New folder (2)\comp3020_group39_a3\A3Q1\obj\Debug\A3Q1.csproj.GenerateResource.Cache
