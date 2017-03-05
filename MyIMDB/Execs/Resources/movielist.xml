@@ -19,6 +19,21 @@
     <actor>George Tobias</actor>
   </movie>
   <movie>
+    <title>The Search </title>
+    <year>1948</year>
+    <length>105 min</length>
+    <certification>Passed</certification>
+    <director>Fred Zinnemann</director>
+    <rating>9</rating>
+    <genre>Drama</genre>
+    <genre>War</genre>
+    <actor>Montgomery Clift</actor>
+    <actor>Aline MacMahon</actor>
+    <actor>Jarmila Novotna</actor>
+    <actor>Wendell Corey</actor>
+    <actor>Ivan Jandl</actor>
+  </movie>
+  <movie>
     <title>Amazon Quest </title>
     <year>1954</year>
     <length>75 min</length>
